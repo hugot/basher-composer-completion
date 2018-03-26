@@ -6,4 +6,4 @@
 # shellcheck disable=SC2155
 export COMPOSER_COMPLETION_PHP_SCRIPT="$(basher package-path sjorek/composer-bash-completion)/composer-completion.php"
 
-include sjorek/composer-bash-completion compoers-completion.bash
+include sjorek/composer-bash-completion composer-completion.bash
